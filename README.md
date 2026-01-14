@@ -1,6 +1,6 @@
 # IM Instance Schedules
 
-This is a schedules configuration file for a pipeline that periodically executes predefined actions on configured IM instances.
+This is a schedules configuration for a pipeline that periodically executes predefined actions on configured IM instances.
 
 ## Configuration
 
