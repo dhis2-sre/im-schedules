@@ -1,0 +1,7 @@
+---
+# see README.md for scheduling format
+emis:
+  training:
+    save: '00:30'
+  demo:
+    reset-database: '01:30'
