@@ -5,3 +5,7 @@ emis:
     save: '00:30'
   demo:
     reset-database: '01:30'
+
+climate:
+  climate-tools-42:
+    reset-database: '03:00'
