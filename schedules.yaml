@@ -5,3 +5,9 @@ emis:
     save: '00:30'
   demo:
     reset-database: '01:30'
+
+lmis:
+  sandbox-dev:
+    save: '00:30'
+  sandbox:
+    reset-database: '01:30'
