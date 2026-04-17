@@ -6,6 +6,10 @@ emis:
   demo:
     reset-database: '01:30'
 
+climate:
+  climate-tools-42:
+    reset-database: '03:00'
+
 lmis:
   sandbox-dev:
     save: '00:30'
