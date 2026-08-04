@@ -19,3 +19,11 @@ lmis:
     save: '00:30'
   sandbox:
     reset-database: '01:30'
+
+e2e:
+  anly-43:
+    reset: '03:00'
+  anly-42:
+    reset: '03:30'
+  anly-41:
+    reset: '04:00'
