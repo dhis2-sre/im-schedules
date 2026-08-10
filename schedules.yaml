@@ -21,9 +21,19 @@ lmis:
     reset-database: '01:30'
 
 e2e:
-  anly-43:
+  analytics-43:
     reset: '03:00'
-  anly-42:
+  analytics-42:
     reset: '03:30'
-  anly-41:
+  analytics-41:
+    reset: '04:00'
+
+dev:
+  analytics-dev:
+    reset: '02:30'
+  analytics-43:
+    reset: '03:00'
+  analytics-42:
+    reset: '03:30'
+  analytics-41:
     reset: '04:00'
