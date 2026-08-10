@@ -19,3 +19,21 @@ lmis:
     save: '00:30'
   sandbox:
     reset-database: '01:30'
+
+e2e:
+  analytics-43:
+    reset: '03:00'
+  analytics-42:
+    reset: '03:30'
+  analytics-41:
+    reset: '04:00'
+
+dev:
+  analytics-dev:
+    reset: '02:30'
+  analytics-43:
+    reset: '03:00'
+  analytics-42:
+    reset: '03:30'
+  analytics-41:
+    reset: '04:00'
