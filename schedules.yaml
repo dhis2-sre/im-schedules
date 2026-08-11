@@ -27,6 +27,14 @@ e2e:
     reset: '03:30'
   analytics-41:
     reset: '04:00'
+  tracker-dev:
+    reset: '04:30'
+  tracker-43:
+    reset: '05:00'
+  tracker-42:
+    reset: '05:30'
+  tracker-41:
+    reset: '06:00'
 
 dev:
   analytics-dev:
