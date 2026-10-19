@@ -7,8 +7,6 @@ emis:
     reset-database: '01:30'
 
 climate:
-  climate-demo-dev-donottouch:
-    save: '00:30'
   climate-demo:
     reset-database: '01:30'
   climate-tools-42:
