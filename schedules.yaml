@@ -5,6 +5,10 @@ emis:
     save: '00:30'
   demo:
     reset-database: '01:30'
+  training43:
+    save: '00:30'
+  demo43:
+    reset-database: '01:30'
 
 climate:
   climate-demo:
